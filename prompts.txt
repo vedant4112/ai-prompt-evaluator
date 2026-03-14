@@ -1,0 +1,3 @@
+Write a Python function to find duplicate numbers in a list
+Write a Python function to reverse a string
+Write a Python function to check palindrome
